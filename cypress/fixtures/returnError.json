@@ -1,0 +1,5 @@
+{
+    "Response": "False",
+    "Error": "No movie was found",
+    "status": 500
+  }

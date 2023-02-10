@@ -1,0 +1,26 @@
+{
+    "Search": [
+        {
+            "Title": "The Godfather",
+            "imdbID": "tt0068646",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com._V1_SX300.jpg",
+            "Year": "1972"
+        },
+        {
+            "Title": "The Godfather: Part II",
+            "imdbID": "tt0071562",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.co_V1_SX300.jpg",
+            "Year": "1974"
+        },
+        {
+            "Title": "The Godfather: Part III",
+            "imdbID": "tt0099674",
+            "Type": "movie",
+            "Poster": "https://m.media-amazon.com/images/M/MV5BMjZkMzM",
+            "Year": "1994"
+        }
+    ]
+}
+    
